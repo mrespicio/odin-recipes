@@ -5,6 +5,112 @@
 	font-family: arial;
 }
 
-html{
+html {
 	font-size: 22px;
 }
+
+body{
+	background-color: #FAF9F6;
+}
+
+h1{
+	padding: 40px 0;
+	background-color: #E5989B; 
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+}
+
+header h2{
+	margin: 20px 40px;
+}
+
+h1 a{
+	color: snow;
+}
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	text-decoration: none;
+}
+
+.home-img{
+	width: 276px;
+	margin: 0 auto;
+}
+
+.home-img{
+	display: inline-block;
+	padding: 10px;
+}
+
+.mid-container{
+	display: inline-block;
+	width: 50%;
+	margin: 0 auto;
+}
+.rec-img{
+	display: inline-block;
+	width: 20%;
+	border-radius: 10px;
+	margin: 40px;
+	vertical-align: top;
+}
+
+.recipes-home{
+	width: 100%;
+	height: auto;
+	margin: 40px auto 0;
+	text-align: center;
+}
+
+.item{
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: #FFCDB2;
+	display: inline-block;
+	width: 300px;
+	margin: 0 40px;
+	padding: 10px;
+}
+
+.intr-ingr{
+	background-color: #FFCDB2;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	padding: 40px;
+	display: inline-block;
+	width: 80%;
+	vertical-align: top;
+	margin: 40px auto;
+}
+
+.intr-ingr ul{
+	list-style: none;
+}
+
+.instructions{
+	display: inline-block;
+	background-color: #FFB4A2;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	padding: 40px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+/*
+.ingredients{
+	background-color: lightskyblue;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+}
+*/
+
+

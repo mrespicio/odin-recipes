@@ -18,5 +18,5 @@ CSS Concepts
 * The Box Model
 * Display and positioning
 
-## The Odin Project
+## Credits
 This project was created as an assignment for [The Odin Project](https://www.theodinproject.com/).
